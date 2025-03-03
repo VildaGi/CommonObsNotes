@@ -1,11 +1,11 @@
 {
 	"nodes":[
-		{"id":"b372d44f1fab256b","type":"text","text":"Проект по Английскому","x":-200,"y":-520,"width":250,"height":60},
 		{"id":"1c1c1e81b427dea9","type":"file","file":"CommonNotes/Проект по английскому/Теоретическая часть проекта.md","x":-500,"y":-360,"width":276,"height":180},
-		{"id":"497b2d96e4581c2f","type":"file","file":"CommonNotes/Проект по английскому/Практическая часть проекта (Telegram-бот).md","x":-139,"y":-360,"width":340,"height":260}
+		{"id":"497b2d96e4581c2f","type":"file","file":"CommonNotes/Проект по английскому/Практическая часть проекта (Telegram-бот).md","x":-139,"y":-360,"width":340,"height":260},
+		{"id":"b372d44f1fab256b","type":"text","text":"Проект по Английскому","x":76,"y":-660,"width":250,"height":60}
 	],
 	"edges":[
-		{"id":"d17834e60b54bb57","fromNode":"b372d44f1fab256b","fromSide":"bottom","toNode":"1c1c1e81b427dea9","toSide":"top"},
-		{"id":"8291996486ea034c","fromNode":"b372d44f1fab256b","fromSide":"bottom","toNode":"497b2d96e4581c2f","toSide":"top"}
+		{"id":"8291996486ea034c","fromNode":"b372d44f1fab256b","fromSide":"bottom","toNode":"497b2d96e4581c2f","toSide":"top"},
+		{"id":"2469d483c9cd7935","fromNode":"b372d44f1fab256b","fromSide":"left","toNode":"1c1c1e81b427dea9","toSide":"top"}
 	]
 }
