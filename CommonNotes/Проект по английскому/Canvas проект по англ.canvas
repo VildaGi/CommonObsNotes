@@ -1,13 +1,11 @@
 {
 	"nodes":[
 		{"id":"b372d44f1fab256b","type":"text","text":"Проект по Английскому","x":-200,"y":-520,"width":250,"height":60},
-		{"id":"1c1c1e81b427dea9","type":"file","file":"knowledge_base/Челгу/Англ яз/Проект/Теоретическая часть проекта.md","x":-500,"y":-360,"width":276,"height":180},
-		{"id":"5aed729dd665b918","type":"file","file":"knowledge_base/Челгу/Англ яз/Проект/Пример прогресс-бара.png","x":-28,"y":60,"width":117,"height":200},
-		{"id":"497b2d96e4581c2f","type":"file","file":"knowledge_base/Челгу/Англ яз/Проект/Практическая часть проекта (Telegram-бот).md","x":-139,"y":-360,"width":340,"height":260}
+		{"id":"1c1c1e81b427dea9","type":"file","file":"CommonNotes/Проект по английскому/Теоретическая часть проекта.md","x":-500,"y":-360,"width":276,"height":180},
+		{"id":"497b2d96e4581c2f","type":"file","file":"CommonNotes/Проект по английскому/Практическая часть проекта (Telegram-бот).md","x":-139,"y":-360,"width":340,"height":260}
 	],
 	"edges":[
 		{"id":"d17834e60b54bb57","fromNode":"b372d44f1fab256b","fromSide":"bottom","toNode":"1c1c1e81b427dea9","toSide":"top"},
-		{"id":"8291996486ea034c","fromNode":"b372d44f1fab256b","fromSide":"bottom","toNode":"497b2d96e4581c2f","toSide":"top"},
-		{"id":"fcaa301264d06bc0","fromNode":"497b2d96e4581c2f","fromSide":"bottom","toNode":"5aed729dd665b918","toSide":"top"}
+		{"id":"8291996486ea034c","fromNode":"b372d44f1fab256b","fromSide":"bottom","toNode":"497b2d96e4581c2f","toSide":"top"}
 	]
 }
